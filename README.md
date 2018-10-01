@@ -26,7 +26,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Abhimanyu Shekhawat | II | IT |
 | Harshita Saxena | II | IT |
 | Bharti Sharma | II | IT |
-| Akash Lakhera | III | CSE |
+| [Akash Lakhera](https://github.com/akashlakhera) | III | CSE |
 | Aakash Khaksa | II | IT |
 | Hardik Mundra | II | IT |
 | Ashik Paul | II | CSE |
